@@ -1,31 +1,27 @@
-# title(){return this.options.title||this.options.name}
+# Simple Search Bar - Practice Project
 
-Quick start:
+This is a practice project to build a Simple Search Bar. Enter a search query and see the results.
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+## Demo
 
-## Development
+![image](https://github.com/DevAbdurR/Plain-JS-Search-Bar/assets/112758727/a43f903a-f90b-4e5d-8d32-a9d238042d24)
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
-```
-$ yarn watch # npm run watch
-```
+See the live project in action on the provided GitHub Pages link.
 
-## Supporting Scrimba
+## Getting Started
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+To run the project locally, follow these steps:
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+1. Clone this repository: `git clone https://github.com/DevAbdurR/Plain-JS-Search-Bar.git`
+2. Open `index.html` in your browser.
 
-	It would also mean the world to us if you share the courses.  
+## Usage
 
-Happy Coding!
+1. Open the page and you'll find a search bar.
+2. Enter a search.
+3. See the search results displayed.
+
+---
+
+This project was developed as a practice exercise for building a Simple Search Bar using HTML, CSS, and JavaScript.
